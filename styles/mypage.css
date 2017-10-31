@@ -18,7 +18,19 @@ body{
 	font-size: 50px;
 	font-weight: bold;
 	margin-bottom: 7%;
+	text-align: center;
 }
+
+.titleStyle2{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+/*.titleStyle3{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}*/
 
 .img-circle{
 	/*opacity: 1;*/
@@ -32,6 +44,17 @@ body{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.4em;
 	color: white;
+
+}
+
+.paragraph2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.0em;
+	color: black;
+	text-align: center;
+	font-weight: 700;
+	margin-top: 50px;
+	margin-left: 50px;
 }
 
 
@@ -60,7 +83,10 @@ hr.style-seven:before { /* Not really supposed to work, but does */
     
 }
 
-
+.centerMe2{
+	/*border: 4px solid red;*/
+	padding-left: 100px;
+}
 
 .aboutPage{
 	background-color: #3b5998;
@@ -82,13 +108,13 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 .projectPage{
 	background-color: #e8eff9;
 	width: 100%;
-	height: 700px;
+	height: 900px;
 	text-align: center;
 }
 
 .contactPage{
 	background-color: #0c1c30;
-	height: 800px;
+	height: 500px;
 	width: 100%;
 
 }
@@ -136,6 +162,10 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 	color: rgb(0, 127, 178);
 }
 
+.newFont{
+	font-size: 30px;
+}
+
 .jumbotron {
 	background: #358CCE;
 	color: #FFF;
@@ -143,8 +173,8 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 }
 
 .jumbotron-sm {
-	padding-top: 24px;
-	padding-bottom: 24px; 
+	padding-top: 30px;
+	padding-bottom: 0px; 
 }
 
 .jumbotron small {
@@ -152,12 +182,20 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 }
 
 .centered {
-	margin: auto;
-	padding-top: 33%;
+	/*margin: auto;*/
+	/*padding-top: 33%;
 	color: white;
 	text-align: center;
+	height: 10px;
+	font-size: 50px;*/
+	color: white;
+	text-align: center;
+	letter-spacing: 10px;
+	font-weight: bold;
+
 	/*border: 8px solid red;*/
-	font-size: 20px;
+
+
 }
 /*.h1 small {
 	font-size: 24px;
@@ -168,6 +206,7 @@ hr.style-four {
     border: 0;
     box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
     width: 25%;
+    margin-bottom: 60px;
 }
 
 .centerMe{
