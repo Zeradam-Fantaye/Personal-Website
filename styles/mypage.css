@@ -6,7 +6,7 @@ body{
 	background: url("https://n6-img-fp.akamaized.net/free-photo/smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template_1258-748.jpg?size=338&ext=jpg");
 	background-size: cover;
 	background-position: center;
-	height: 1200px;	
+	height: 1000px;	
 	margin-top: -15%;
 }
 
@@ -26,9 +26,9 @@ body{
 
 
 .img-circle{
-	width: 600px;
-	height: 600px;
-	margin-left: -10% ;
+	width: 80%;
+	/*height: 400px;*/
+	margin-left: 15%;
 }
 
 .paragraph{
