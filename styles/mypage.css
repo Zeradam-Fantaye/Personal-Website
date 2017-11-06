@@ -74,6 +74,14 @@ hr.style-seven:before {
     
 }
 
+.smallerFont{
+	font-size: 20px;
+	letter-spacing: 0px;
+	font-family: "Calibri";
+	padding-top: 35px;
+}
+
+
 .centerMe2{
 	padding-left: 100px;
 }
