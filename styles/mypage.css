@@ -16,6 +16,11 @@ body{
 	margin-top: -15%;
 }
 
+.headFont{
+	font-weight: bold;
+	font-size: 23px;
+}
+
 .caption p{
 	font-weight: bold;
 }
